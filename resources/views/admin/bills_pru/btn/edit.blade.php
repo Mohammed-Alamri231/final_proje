@@ -1,0 +1,1 @@
+<a href="{{ aurl('bills_pru/'.$id_billpru.'/edit') }}"class="btn btn-info"><i class ="fa fa-edit"></i></a>

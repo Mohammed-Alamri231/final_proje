@@ -1,0 +1,1 @@
+<a href="{{ aurl('update_order/'.$id.'/edit') }}"class="btn btn-info"><i class ="fa fa-edit"></i></a>

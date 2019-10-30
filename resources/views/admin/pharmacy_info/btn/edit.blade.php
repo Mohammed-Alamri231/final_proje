@@ -1,0 +1,1 @@
+<a href="{{ aurl('pharmacy_info/'.$id.'/edit') }}"class="btn btn-info"><i class ="fa fa-edit"></i></a>
